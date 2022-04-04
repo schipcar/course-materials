@@ -10,7 +10,7 @@
 
 ### 2. a) The total runtime is [] seconds.
 
-### 2. b) Click ![here](./plot.PNG) to view plot.
+### 2. b) Click ![here](./plot.png) to view plot.
 
 ### 2. c) The optimal rho value is [], with an average of [] periods until the first negative health value.
 
